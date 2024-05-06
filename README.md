@@ -1,16 +1,44 @@
-### Hi there 👋,I'm Pasindu Himakara
+<h1 align="center">Hi 👋, I'm Pasindu Himakara</h1>
 
-<!--
-**Coder-himakara/Coder-himakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F720&random=false&width=435&lines=I+am+a+tech+enthusiast.;Adept+at+Mastering+New+Concepts.)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-himakara&label=Profile%20views&color=0e75b6&style=flat" alt="coder-himakara" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-himakara" alt="coder-himakara" /></a> </p>
+
+<h3 align="left"> :calling:Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/pasindu-himakara-b44885285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu himakara" height="30" width="40" /></a>
+</p>
+
+## 🔭 I’m currently working on 
+- Java Project for tracking wildlife of specific forest
+
+## 🌱 I’m currently learning 
+- Laravel Framework
+- Cloud Computing
+
+
+
+## :computer:Technical Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,git,laravel,mysql,ps)](https://skillicons.dev)
+
+## :chart_with_downwards_trend:Github Stat:
+<div align=center>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-himakara&layout=compact)
+</div>
+</br>
+<div align=center>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-himakara&show_icons=true&theme=dark)
+  
+</div>
+</br>
+<div align=center>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Coder-himakara&theme=dark)](https://git.io/streak-stats)
+</div>
+
