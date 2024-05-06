@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pasindu Himakara</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F720&random=false&width=435&lines=I+am+a+tech+enthusiast.;Adept+at+Mastering+New+Concepts.)](https://git.io/typing-svg)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-himakara&label=Profile%20views&color=0e75b6&style=flat" alt="coder-himakara" /> </p>
+<div align=center>
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F720&random=false&width=435&lines=I+am+a+tech+enthusiast.;Adept+at+Mastering+New+Concepts." alt="Typing SVG" /></a>
+</div>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=coder-himakara&label=Profile%20views&color=0e75b6&style=flat" alt="coder-himakara" /> </p>
 
 
 <h3 align="left"> :calling:Connect with me:</h3>
@@ -20,9 +21,13 @@
 
 
 ## :computer:Technical Skills:
+<h3 align=center>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c,git,laravel,mysql,ps)](https://skillicons.dev)
+</h3>
+
 
 ## :chart_with_downwards_trend:Github Stat:
 <div align=center>
