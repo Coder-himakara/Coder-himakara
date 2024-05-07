@@ -32,7 +32,7 @@
 ## :chart_with_downwards_trend:Github Stat:
 <div align=center>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-himakara&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-himakara&layout=compact&theme=dark)
 </div>
 </br>
 <div align=center>
