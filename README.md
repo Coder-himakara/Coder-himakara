@@ -17,6 +17,7 @@
 ## 🌱 I’m currently learning 
 - Laravel Framework
 - Cloud Computing
+- React js
 
 
 
