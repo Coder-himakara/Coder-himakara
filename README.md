@@ -6,10 +6,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=coder-himakara&label=Profile%20views&color=0e75b6&style=flat" alt="coder-himakara" /> </p>
 
 
-<h3 align="left"> :calling:Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pasindu-himakara-b44885285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu himakara" height="30" width="40" /></a>
-</p>
+## :calling:Connect with me:
+- Email:  ibhimakara@gmail.com
+- LinkedIn:  <a href="www.linkedin.com/in/pasindu-himakara-b44885285">Vist My Profile</a> 
+
 
 ## 🔭 I’m currently working on 
 - Java Project for tracking wildlife of specific forest
