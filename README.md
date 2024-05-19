@@ -8,7 +8,7 @@
 
 ## :calling:Connect with me:
 - Email:  ibhimakara@gmail.com
-- LinkedIn:  <a href="www.linkedin.com/in/pasindu-himakara-b44885285">Vist My Profile</a> 
+- LinkedIn:  <a href="https://linkedin.com/in/pasindu-himakara-b44885285">Vist My Profile</a> 
 
 
 ## 🔭 I’m currently working on 
