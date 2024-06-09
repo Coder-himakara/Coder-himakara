@@ -24,9 +24,9 @@
 ## :computer:Technical Skills:
 <h3 align=center>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c,git,laravel,mysql,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,git,laravel,mysql,ps,php)](https://skillicons.dev)
 </h3>
 
 
