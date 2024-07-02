@@ -12,7 +12,7 @@
 
 
 ## 🔭 I’m currently working on 
-- Java Project for tracking wildlife of specific forest
+- Java Project for tracking wildlife in a forest
 
 ## 🌱 I’m currently learning 
 - Laravel Framework
@@ -33,12 +33,12 @@
 ## :chart_with_downwards_trend:Github Stat:
 <div align=center>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-himakara&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-himakara&layout=compact&theme=highcontrast)
 </div>
 </br>
 <div align=center>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-himakara&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-himakara&show_icons=true&theme=highcontrast)
   
 </div>
 </br>
