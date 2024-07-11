@@ -16,7 +16,7 @@
 - Java Project for tracking wildlife in a forest
 
 ## 🌱 I’m currently learning 
-- Laravel Framework
+- Node js
 - Cloud Computing
 - React js
 
