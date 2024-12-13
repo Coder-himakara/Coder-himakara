@@ -13,12 +13,13 @@
 
 
 ## 🔭 I’m currently working on 
-- Java Project for tracking wildlife in a forest
+- 3rd year Project associated with my University
 
 ## 🌱 I’m currently learning 
 - Node js
 - Cloud Computing
 - React js
+- SpringBoot
 
 
 
