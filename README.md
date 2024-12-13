@@ -28,7 +28,7 @@
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c,git,laravel,mysql,ps,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,git,laravel,mysql,ps,php,cs,postman)](https://skillicons.dev)
 </h3>
 
 
