@@ -46,6 +46,6 @@
 </br>
 <div align=center>
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Coder-himakara&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Coder-himakara&theme=highcontrast)](https://git.io/streak-stats)
 </div>
 
