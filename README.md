@@ -27,8 +27,9 @@
 <h3 align=center>
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c,git,laravel,mysql,ps,php,cs,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,php,cs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,laravel,mysql,ps,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,notion)](https://skillicons.dev)
 </h3>
 
 
