@@ -17,9 +17,9 @@
 
 ## 🌱 I’m currently learning 
 - Node js
-- Cloud Computing
 - React js
-- SpringBoot
+- Cloud Computing
+- Code quality tools and frameworks
 
 
 
@@ -28,8 +28,8 @@
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,c,php,cs,figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,laravel,mysql,ps,postman)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,laravel,spring,mysql,postgres,ps,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,notion,discord)](https://skillicons.dev)
 </h3>
 
 
