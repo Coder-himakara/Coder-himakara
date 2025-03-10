@@ -9,8 +9,7 @@
 
 ## :calling:Connect with me:
 - Email:  ibhimakara@gmail.com
-- LinkedIn:  <a href="https://linkedin.com/in/pasindu-himakara-b44885285">Vist My Profile</a> 
-
+- LinkedIn:  <a href="https://linkedin.com/in/pasindu-himakara-b44885285">Vist My Profile</a>
 
 ## 🔭 I’m currently working on 
 - 3rd year Project associated with my University
@@ -50,3 +49,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Coder-himakara&theme=highcontrast)](https://git.io/streak-stats)
 </div>
 
+## :bookmark_tabs:Learn and Collaborate:
+<div align=center>
+<a href="https://app.daily.dev/dev_pasindu"><img src="https://api.daily.dev/devcards/v2/Ksr7n9BzSrNlYxDZLByV0.png?type=default&r=svx" width="356" alt="Pasindu Himakara's Dev Card"/></a>
+</div>
