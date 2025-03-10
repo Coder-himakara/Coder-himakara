@@ -50,6 +50,8 @@
 </div>
 
 ## :bookmark_tabs:Learn and Collaborate:
-<div align=center>
-  <a href="https://app.daily.dev/dev_pasindu"><img src="./devcard.png" width="356" alt="dev_pasindu's Dev Card"/></a>
+<div align=center>  
+  
+  <a href="https://app.daily.dev/dev_pasindu"><img src="./devcard.png" width="356" alt="Pasindu Himakara's Dev Card"/></a>
+  
 </div>
