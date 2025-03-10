@@ -51,5 +51,5 @@
 
 ## :bookmark_tabs:Learn and Collaborate:
 <div align=center>
-<a href="https://app.daily.dev/dev_pasindu"><img src="https://api.daily.dev/devcards/v2/Ksr7n9BzSrNlYxDZLByV0.png?type=default&r=svx" width="356" alt="Pasindu Himakara's Dev Card"/></a>
+  <a href="https://app.daily.dev/dev_pasindu"><img src="./devcard.png" width="356" alt="dev_pasindu's Dev Card"/></a>
 </div>
