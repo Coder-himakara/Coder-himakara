@@ -12,11 +12,11 @@
 - LinkedIn:  <a href="https://linkedin.com/in/pasindu-himakara-b44885285">Vist My Profile</a>
 
 ## 🔭 I’m currently working on 
-- 3rd year Project associated with my University
+- Project following Micro Service architecture
 
 ## 🌱 I’m currently learning 
-- Node js
-- Cloud Computing
+- Reactive Programming
+- Spring Security
 - DevOps
 
 
