@@ -15,9 +15,8 @@
 - Project following Micro Service architecture
 
 ## 🌱 I’m currently learning 
-- Reactive Programming
-- Spring Security
 - DevOps
+- Cloud Computing
 
 
 
